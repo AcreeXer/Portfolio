@@ -1,9 +1,9 @@
 const cacheName = "AlexandreCasteels-Portfolio-0.1";
 const contentToCache = [
-    "Build/Portfolio.loader.js",
-    "Build/Portfolio.framework.js",
-    "Build/Portfolio.data",
-    "Build/Portfolio.wasm",
+    "Build/Portfolio_build.loader.js",
+    "Build/Portfolio_build.framework.js",
+    "Build/Portfolio_build.data",
+    "Build/Portfolio_build.wasm",
     "TemplateData/style.css"
 
 ];
